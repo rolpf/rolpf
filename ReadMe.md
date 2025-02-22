@@ -1,9 +1,9 @@
 # 💫 About Me:
-👨‍🎓 I used to be a web and multimedia student
-📚 Learning programming as a hobby
-💻 Always curious about coding
-🌱 Growing my skills and knowledge every day
-👀 Looking for opportunities to discover more techs
+👨‍🎓 I used to be a web and multimedia student<br>
+📚 Learning programming as a hobby<br>
+💻 Always curious about coding<br>
+🌱 Growing my skills and knowledge every day<br>
+👀 Looking for opportunities to discover more techs<br>
 
 
 # 💻 Tech Stack:
