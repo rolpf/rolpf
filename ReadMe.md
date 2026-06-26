@@ -62,7 +62,7 @@
 
 
 <h3 data-importer="text" align="left">🔥   Connect with me</h3>
-[Email](<rolpf.dev@gmail.com>) | [MonkeyType](https://monkeytype.com/profile/rolpf)
+  <a target="_blank" href="mailto:rolpf.dev@gmail.com"> |  <a target="_blank" href="https://monkeytype.com/profile/rolpf">
 
 ###
 
