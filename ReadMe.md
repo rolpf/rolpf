@@ -15,7 +15,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+<h3 data-importer="text" align="left">👩‍💻   About Me</h3>
 
 ###
 
@@ -59,9 +59,14 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
+
+
+<h3 data-importer="text" align="left">🔥   Connect with me</h3>
+[Email](<rolpf.dev@gmail.com>) | [MonkeyType](https://monkeytype.com/profile/rolpf)
+
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+<h3 data-importer="text" align="left">🔥   My Stats</h3>
 
 ###
 
