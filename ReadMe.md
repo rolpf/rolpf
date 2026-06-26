@@ -66,6 +66,7 @@
   <li><a target="_blank" href="mailto:rolpf.dev@gmail.com">Email</a></li>
   <li><a target="_blank" href="https://monkeytype.com/profile/rolpf"/>MonkeyType</a></li>
 </ul>
+<a target="_blank" href="mailto:rolpf.dev@gmail.com">Email</a> | <a target="_blank" href="https://monkeytype.com/profile/rolpf"/>MonkeyType</a>
 
 ###
 
