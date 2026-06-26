@@ -59,10 +59,12 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
-
+###
 
 <h3 data-importer="text" align="left">🔥   Connect with me</h3>
+<div class="flex">
   <a target="_blank" href="mailto:rolpf.dev@gmail.com">Email</a><p> | </p> <a target="_blank" href="https://monkeytype.com/profile/rolpf"/>MonkeyType</a> 
+</div>
 
 ###
 
