@@ -1,7 +1,3 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://avatars.githubusercontent.com/u/82884248?v=4"  />
-</div>
-
 ###
 
 <h1 data-importer="text" align="center">hey there 👋</h1>
